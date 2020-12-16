@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "module": "esnext",
+        "target": "es2015",
+        "outDir": "./dist",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "strict": true,
+        "noFallthroughCasesInSwitch": true
+    }
+}
